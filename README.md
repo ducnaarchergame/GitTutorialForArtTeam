@@ -1,0 +1,1 @@
+# GitTutorialForArtTeam
