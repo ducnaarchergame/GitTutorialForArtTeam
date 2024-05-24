@@ -13,7 +13,9 @@ Dưới đây là đoạn văn bản hướng dẫn được định dạng lạ
 ```
 
 ### 1.2 Check xem hiện tại có thay đổi gì ở local không (phòng trường hợp người khác cũng mới dùng máy)
-```console git status ```
+```console 
+git status 
+```
 
 - Nếu có thay đổi gì thì cần confirm lại
 
