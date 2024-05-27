@@ -3,9 +3,8 @@
 - Team Art sẽ làm việc trên 1 nhánh riêng là nhánh **teamart**
 
 ## 1. Trước khi bắt đầu công việc
-### 1.1 Chuẩn bị tool git bash (chỉ thực hiện khi chưa mở gitbash)
+### 1.1 Chuẩn bị tool git bash 
 - Vào thư mục sourcecode từ window rồi chuột phải chọn "Open Gitbash Here"
-- Athorization: Team Dev sẽ thực hiện bước này
 
 ### 1.2 Check xem hiện tại có thay đổi gì ở local không 
 ```console 
