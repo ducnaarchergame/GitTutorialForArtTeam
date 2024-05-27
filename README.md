@@ -7,7 +7,7 @@
 - Vào thư mục sourcecode từ window rồi chuột phải chọn "Open Gitbash Here"
 - Athorization: Team Dev sẽ thực hiện bước này
 
-### 1.2 Check xem hiện tại có thay đổi gì ở local không (phòng trường hợp người khác cũng mới dùng máy)
+### 1.2 Check xem hiện tại có thay đổi gì ở local không 
 ```console 
 git status 
 ```
