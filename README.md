@@ -13,15 +13,15 @@
 ## 2. Sau khi hoàn tất công việc:
 
 ### Unity
-- Save (Ctrl+S) trước khi commit push / pull
+- Save (Ctrl+S) trước khi add và commit 
 
 ### Git
 #### Step 2.1: Lựa chọn những thay đổi của mình để add vào stage
 
 #### Step 2.2: Commit ở local
 
-#### Step 2.4: Push to server
-- Pull lại code mới nhất
+#### Step 2.3: Push to server
+- Pull lại code mới nhất trước khi push
 - Push lên server
  
 ## 3. Recommendations
